@@ -1,0 +1,7 @@
+{
+  "name": "abc test",
+  "email": "abc@test.com",
+  "password" : "1234",
+  "role": "customer",
+  "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=9448"
+}
